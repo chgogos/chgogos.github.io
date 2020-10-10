@@ -55,6 +55,12 @@ main > .tagline {
 	font-weight: 100;
 }
 
+main > .secondary_tagline {
+	font-size: 0.5rem;
+	margin: 1.5rem 0;
+	font-weight: 100;
+}
+
 .icons-social i {
 	padding: 10px;
 }
