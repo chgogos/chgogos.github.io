@@ -55,8 +55,8 @@ main > .tagline {
 	font-weight: 100;
 }
 
-main > .secondary_tagline {
-	font-size: 0.5rem;
+main > .secondary-tagline {
+	font-size: 1.0rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
@@ -75,3 +75,13 @@ main > .secondary_tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+a:link {
+	color:white;
+  }
+  
+  /* visited link */
+  a:visited {
+	color:white;
+  }
+  
